@@ -1,0 +1,22 @@
+<?php
+$__akses_config = array(
+    'index.php',
+    'siswa.php',
+    'admin/detailsis.php',
+    'admin/editkelas.php',
+    'admin/editpembayaran.php',
+    'admin/editpetugas.php',
+    'admin/editsiswa.php',
+    'admin/editspp.php',
+    'admin/index.php',
+    'admin/kelas.php',
+    'admin/petugas.php',
+    'admin/siswa.php',
+    'admin/spp.php',
+    'admin/tambahkelas.php',
+    'admin/tambahpembayaran.php',
+    'admin/tambahpetugas.php',
+    'admin/tambahsiswa.php',
+    'admin/tambahspp.php'
+);
+?>
